@@ -1,4 +1,4 @@
-let original = "abc";
-let reversed = original.split('').reverse().join('');
+let str = "abc";
+let reversed = str.split('').reverse().join('');
 
 console.log(reversed);
